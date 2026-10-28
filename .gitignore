@@ -1,0 +1,5 @@
+sozlamalar.json
+.venv/
+__pycache__/
+*.pptx
+*.pdf
